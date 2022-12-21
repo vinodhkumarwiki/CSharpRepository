@@ -1,0 +1,13 @@
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.exe
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.deps.json
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.json
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.runtimeconfig.dev.json
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.dll
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\bin\Debug\netcoreapp3.1\ConsoleApplication.pdb
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfoInputs.cache
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.AssemblyInfo.cs
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.dll
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.pdb
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.genruntimeconfig.cache
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.AssemblyReference.cache
+E:\Visual Studio\ConsoleApplication\ConsoleApplication\ConsoleApplication\obj\Debug\netcoreapp3.1\ConsoleApplication.csproj.CoreCompileInputs.cache
